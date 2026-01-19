@@ -56,10 +56,6 @@ python main.py
 - Pygame 2.x
 - Système d'exploitation : Windows, macOS ou Linux
 
-## Captures d'écran
-
-![Gameplay](screenshot.png)
-*(Vous pouvez ajouter une capture d'écran plus tard)*
 
 ## Auteur
 
